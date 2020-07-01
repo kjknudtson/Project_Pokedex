@@ -1,0 +1,337 @@
+body {
+    background-color: royalblue;
+
+}
+
+p {
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    
+
+}
+
+.pokeName {
+    text-transform: capitalize;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+.type-head {
+    padding-left: 10px;
+
+}
+
+.normal {
+    width: fit-content;
+    background-color: tan;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.fire {
+    width: fit-content;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    margin-left: 32px;
+}
+
+.electric {
+    width: fit-content;
+    background-color: yellow;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.grass {
+    width: fit-content;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    margin-left: 27px;
+}
+
+.water {
+    width: fit-content;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.ice {
+    width: fit-content;
+    background-color: aqua;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.fighting {
+    width: fit-content;
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.ghost {
+    width: fit-content;
+    background-color: plum;
+    
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.steel {
+    width: fit-content;
+    background-color: silver;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.psychic {
+    width: fit-content;
+    background-color: hotpink;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+
+.rock {
+    width: fit-content;
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.ground {
+    width: fit-content;
+    background-color: rgb(221, 124, 55);
+    color: white;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.dark {
+    width: fit-content;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.fairy {
+    width: fit-content;
+    background-color: pink;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.dragon {
+    width: fit-content;
+    background-color: darkorchid;
+    color: white;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.flying {
+    width: fit-content;
+    background-color: cyan;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.poison {
+    width: fit-content;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    margin-left: 25px;
+}
+
+.bug {
+    width: fit-content;
+    background-color: lime;
+    padding: 5px;
+    margin-left: 22px;
+}
+
+.type-style {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 22px;
+}
+
+.container {
+    margin-left: 30%;
+    border-style: groove;
+    background-color: red;
+    border-radius: 8px;
+    width: fit-content;
+    height: fit-content;
+    border-width: 5px;
+    
+}
+
+.searchArea {
+    border-style: solid;
+    height: 50px;
+    width: 540px;
+    background-color: rgb(65, 65, 65);
+    margin: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+form {
+    margin-top: 15px;
+    margin-left: 150px;
+    float: left;
+}
+
+
+#search-btn {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+}
+
+#random-btn {
+   margin-top: 15px;
+   margin-right: 20px;
+   float: right;
+   background-color: purple;
+   color: white;
+   border-radius: 10px;
+   outline: none;
+}
+
+.name {
+    font-family: 'Notable', sans-serif;
+    background-color: darkgray;
+    border-style: solid;
+    border-radius: 8px;
+    height: 50px;
+    width: 540px;
+    padding-bottom: 40px;
+    font-size: 35px;
+    
+    text-align: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.image {
+    background-color: cyan;
+    height: 250px;
+    width: 225px;
+    border-style: solid;
+    border-radius: 8px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.pokePic {
+    height: 225px;
+    width: 225px;
+
+}
+
+.type {
+    font-family: 'Orbitron', sans-serif;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-radius: 8px;
+    height: 250px;
+    width: 133px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.abilities {
+    font-family: 'Orbitron', sans-serif;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-radius: 8px;
+    height: 250px;
+    width: 154px;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.facts {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background-color: darkgray;
+    width: 540px;
+    height: 200px;
+    clear: both;
+    
+    margin-bottom: 10px;
+    border-style: solid;
+    border-radius: 8px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.stats {
+    font-family: 'Orbitron', sans-serif;
+    background-color: ivory;
+    border-style: solid;
+    border-radius: 8px;
+    height: 340px;
+    clear: both;
+    width: 540px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.hidden {
+    color: rebeccapurple;
+    font-weight: bolder;
+}
+
+.HP {
+    background-color: tomato;    
+}
+
+.attack {
+    background-color: orange;
+}
+
+.defense {
+    background-color: yellow;
+}
+
+.special-attack {
+    background-color: blue;
+}
+
+.special-defense {
+    background-color: green;
+}
+
+.speed {
+    background-color: hotpink;
+}
