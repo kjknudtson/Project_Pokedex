@@ -2,7 +2,7 @@
 
 ## Description
 
-This was a fun "Pokedex" program I coded, as a way to further practice coding.  It utilizes html, CSS, Javascript, jQuery, and uses an AJAX call of the API, PokeAPI.  I even used some custom Google fonts.  I very much enjoyed Pokemon as a kid in the '90s and I really enjoyed working on this.  This project helped me get an even better understanding of API calls and helped me utilize Google Fonts, as I hadn't used them in a project before, and I really like how they look.  Whilthe it is a functioning program, I still want to see if I can add more to it.
+This was a fun "Pokedex" program I coded, as a way to further practice coding.  It utilizes html, CSS, Javascript, jQuery, and uses an AJAX call of the API, PokeAPI.  I even used some custom Google fonts.  I very much enjoyed Pokemon as a kid in the '90s and I really enjoyed working on this.  This project helped me get an even better understanding of API calls and helped me utilize Google Fonts, as I hadn't used them in a project before, and I really like how they look.  While it is a functioning program, I still want to see if I can add more to it.
 
 Deployed Application: https://kjknudtson.github.io/Project_Pokedex/
 
